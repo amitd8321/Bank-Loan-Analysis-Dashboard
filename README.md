@@ -1,4 +1,6 @@
 # 🏦 Bank Loan Analysis Dashboard
+![Dashboard Preview](images/dashboard_summary.png)
+
 
 ## 📌 About the Project
 This project is an interactive **Bank Loan Analysis Dashboard** built using **Microsoft Excel** to analyze lending performance and loan portfolio health.
@@ -87,3 +89,4 @@ This dashboard supports **business analysts and MIS teams**.
 ## 👤 Author
 **Amit Das**  
 Aspiring Data Analyst | Excel | Data Visualization | Business Insights
+
