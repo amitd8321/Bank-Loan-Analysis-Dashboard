@@ -1,41 +1,89 @@
-# Bank Loan Analysis Dashboard
+# 🏦 Bank Loan Analysis Dashboard
 
-## Project Overview
-This project presents a Bank Loan Analysis Dashboard created using Excel.
-It helps analyze loan applications, funded amount, interest rate, DTI,
-and loan performance (Good vs Bad loans).
+## 📌 About the Project
+This project is an interactive **Bank Loan Analysis Dashboard** built using **Microsoft Excel** to analyze lending performance and loan portfolio health.
 
-## Dashboards Included
+The dashboard helps stakeholders understand **how loans are performing**, **which customers are risky**, and **where business decisions can be improved** using data-driven insights.
 
-### Summary Dashboard
-- Total Loan Applications
+---
+
+## 🎯 Business Problem
+Banks deal with thousands of loan applications every month.  
+Without proper analysis, it becomes difficult to:
+- Track loan growth
+- Identify risky (bad) loans
+- Monitor interest rates and customer debt burden
+- Understand regional and customer behavior
+
+This project solves that problem by converting raw loan data into **clear visual dashboards**.
+
+---
+
+## 📊 Dashboards Overview
+
+### 🔹 Summary Dashboard
+Provides a high-level snapshot of the loan portfolio:
+- Total Loan Applications (MTD & MoM)
 - Total Funded Amount
 - Total Amount Received
 - Average Interest Rate
-- Average DTI
-- Good Loan vs Bad Loan Analysis
+- Average Debt-to-Income (DTI)
+- Good Loans vs Bad Loans comparison
 
-![Summary Dashboard](images/dashboard_summary.png)
+This dashboard is designed for **senior management** and quick decision-making.
 
-### Overview Dashboard
-- Monthly Loan Trends
-- State-wise Loan Distribution
-- Loan Term Analysis
-- Employment Length Analysis
-- Loan Purpose Analysis
-- Home Ownership Analysis
+---
 
-![Overview Dashboard](images/dashboard_overview.png)
+### 🔹 Overview Dashboard
+Gives deeper analytical insights:
+- Monthly loan application trends
+- State-wise loan distribution
+- Loan term analysis (36 vs 60 months)
+- Employment length impact on loans
+- Loan purpose analysis
+- Home ownership distribution
 
-## Tools Used
+This dashboard supports **business analysts and MIS teams**.
+
+---
+
+## 🧮 Key KPIs Tracked
+- Total Loan Applications
+- Month-to-Date (MTD) & Month-over-Month (MoM) trends
+- Total Funded Amount
+- Total Amount Received
+- Average Interest Rate
+- Average Debt-to-Income Ratio (DTI)
+- Good Loan vs Bad Loan percentages
+
+---
+
+## 📈 Key Insights
+- Majority of loans fall under **Good Loan category**
+- 36-month loans dominate the portfolio
+- Customers with rent or mortgage apply more frequently
+- Interest rate and DTI vary significantly by loan status
+- Regional patterns highlight high-activity states
+
+---
+
+## 🛠 Tools & Skills Used
 - Microsoft Excel
-- Pivot Tables
-- Charts & Dashboards
+- Pivot Tables & Pivot Charts
+- Dashboard Design
+- Data Cleaning & Analysis
+- Business KPI Analysis
 
-## How to Use
-1. Download the project
-2. Open Dashboard.xlsx
-3. Use filters to explore insights
+---
 
-## Author
-Amit Das
+## 🚀 How to Use This Project
+1. Download or clone the repository
+2. Open `Dashboard.xlsx`
+3. Use slicers and filters (Grade, Purpose, etc.)
+4. Explore insights across dashboards
+
+---
+
+## 👤 Author
+**Amit Das**  
+Aspiring Data Analyst | Excel | Data Visualization | Business Insights
