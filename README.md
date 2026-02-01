@@ -1,5 +1,12 @@
 # 🏦 Bank Loan Analysis Dashboard
-![Dashboard Preview](images/dashboard_summary.png)
+## 📊 Dashboards Overview
+
+### 🔹 Summary Dashboard
+![Summary Dashboard](images/dashboard_summary.png)
+
+### 🔹 Overview Dashboard
+![Overview Dashboard](images/dashboard_overview.png)
+
 
 
 ## 📌 About the Project
@@ -89,4 +96,5 @@ This dashboard supports **business analysts and MIS teams**.
 ## 👤 Author
 **Amit Das**  
 Aspiring Data Analyst | Excel | Data Visualization | Business Insights
+
 
